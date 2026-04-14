@@ -67,8 +67,13 @@ Built to address real-world challenges in agriculture such as **low productivity
 ---
 
 ## Screenshots
-![1](https://github.com/user-attachments/assets/46256f2e-ec08-4518-a55e-8b4bfeed2bb0)
-![weath](https://github.com/user-attachments/assets/ed6245c3-27e7-4e98-a44a-98c2e38e866c)
-![ai](https://github.com/user-attachments/assets/c6affc18-e872-4b1c-b435-cd2a1c2eac54)
-![2](https://github.com/user-attachments/assets/7b4a97e7-8e3f-46b3-9b59-421a1880119f)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/46256f2e-ec08-4518-a55e-8b4bfeed2bb0" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ed6245c3-27e7-4e98-a44a-98c2e38e866c" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c6affc18-e872-4b1c-b435-cd2a1c2eac54" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7b4a97e7-8e3f-46b3-9b59-421a1880119f" width="300"/>
+</p>
 
